@@ -1,0 +1,4 @@
+litemapy
+Pillow
+numpy
+requests
